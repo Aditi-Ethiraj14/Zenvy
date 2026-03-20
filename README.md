@@ -846,4 +846,4 @@ zenvy/
 
 *Zenvy — Built for the last mile. Powered by AI. Secured by design.*
 
-> **Phase 1 Submission | Guidewire DEVTrails 2026** <
+> **Phase 1 Submission | Guidewire DEVTrails 2026** |
