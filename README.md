@@ -838,14 +838,12 @@ zenvy/
 ```
 
 ---
-
 ## Demo Video
 
-🎬 **[2-Minute Strategy & Prototype Video — Link]**  
-*(Placeholder — to be uploaded before March 20, EOD)*
+🎬 **[2-Minute Strategy & Prototype Video](https://youtu.be/fTuWLnSoWsg)**
 
 ---
 
 *Zenvy — Built for the last mile. Powered by AI. Secured by design.*
 
-> **Phase 1 Submission | Guidewire DEVTrails 2026 | Deadline: March 20, EOD**
+> **Phase 1 Submission | Guidewire DEVTrails 2026**
