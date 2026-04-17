@@ -1,0 +1,71 @@
+{
+  "description": "ZENVY sample feature vectors for testing RADAR model",
+  "scenarios": [
+    {
+      "name": "Heavy Monsoon Rain - Mumbai July",
+      "expected_risk": "critical",
+      "features": {
+        "rainfall_mm": 42.5,
+        "rainfall_7d_avg": 25.0,
+        "aqi": 165,
+        "temperature": 28,
+        "humidity": 95,
+        "wind_speed": 30,
+        "hour_of_day": 14,
+        "day_of_week": 1,
+        "city_risk_index": 0.85,
+        "historical_disruptions_30d": 8,
+        "worker_years_exp": 2.5,
+        "is_monsoon_season": 1,
+        "is_weekend": 0,
+        "rain_monsoon_interaction": 42.5
+      }
+    },
+    {
+      "name": "Clear Winter Day - Delhi",
+      "expected_risk": "low",
+      "features": {
+        "rainfall_mm": 0,
+        "rainfall_7d_avg": 0,
+        "aqi": 120,
+        "temperature": 22,
+        "humidity": 45,
+        "wind_speed": 8,
+        "hour_of_day": 11,
+        "day_of_week": 3,
+        "city_risk_index": 0.4,
+        "historical_disruptions_30d": 1,
+        "worker_years_exp": 4.0,
+        "is_monsoon_season": 0,
+        "is_weekend": 0,
+        "rain_monsoon_interaction": 0
+      }
+    },
+    {
+      "name": "Hazardous AQI - Delhi Winter",
+      "expected_risk": "high",
+      "features": {
+        "rainfall_mm": 0,
+        "rainfall_7d_avg": 0,
+        "aqi": 320,
+        "temperature": 18,
+        "humidity": 80,
+        "wind_speed": 3,
+        "hour_of_day": 8,
+        "day_of_week": 0,
+        "city_risk_index": 0.75,
+        "historical_disruptions_30d": 5,
+        "worker_years_exp": 1.5,
+        "is_monsoon_season": 0,
+        "is_weekend": 0,
+        "rain_monsoon_interaction": 0
+      }
+    }
+  ],
+  "parametric_triggers": {
+    "rain_15mm": {"threshold": 15, "severity": 0.5, "daily_impact_pct": 50},
+    "flood_40mm": {"threshold": 40, "severity": 0.8, "daily_impact_pct": 80},
+    "aqi_300":   {"threshold": 300, "severity": 0.6, "daily_impact_pct": 60},
+    "heat_43":   {"threshold": 43, "severity": 0.5, "daily_impact_pct": 50}
+  }
+}
