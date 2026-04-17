@@ -1,6 +1,31 @@
-frontend/node_modules/
-backend/venv/
+# Python
 __pycache__/
+*.py[cod]
+*.pyo
+*.pyd
 *.pyc
-*.db
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
 .env
+
+# Database (don't commit local DB — seeded fresh on deploy)
+backend/zenvy.db
+backend/*.db
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
