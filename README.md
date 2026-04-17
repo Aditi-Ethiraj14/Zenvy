@@ -7,13 +7,14 @@
 ## 🎥 Demo & Pitch
 
 ### 🎬 Working Demo
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/wRg5QJCFU8w)
+[![Watch the Demo](<img width="2493" height="1341" alt="image" src="https://github.com/user-attachments/assets/b628f3eb-5d0a-4cac-934d-ce32a1c16881" />
+)](https://youtu.be/wRg5QJCFU8w)
 
 ---
 
 ### 📊 Pitch Deck
 
-🔗 [https://your-pitch-deck-link.com](https://drive.google.com/drive/folders/1SjlDncbF6psHKQYj8zbCQpVFXx6vJgpw?usp=sharing)
+🔗 [Click here](https://drive.google.com/drive/folders/1SjlDncbF6psHKQYj8zbCQpVFXx6vJgpw?usp=sharing)
 
 ---
 
