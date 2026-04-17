@@ -4,6 +4,19 @@
 
 ---
 
+## 🎥 Demo & Pitch
+
+### 🎬 Working Demo
+[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/wRg5QJCFU8w)
+
+---
+
+### 📊 Pitch Deck
+
+🔗 [https://your-pitch-deck-link.com](https://drive.google.com/drive/folders/1SjlDncbF6psHKQYj8zbCQpVFXx6vJgpw?usp=sharing)
+
+---
+
 ## 📋 Table of Contents
 
 1. [Problem Definition](#-problem-definition)
