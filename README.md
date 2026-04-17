@@ -4,18 +4,18 @@
 
 ---
 
-## 🎥 Demo & Pitch
+## 🎥 Pitch Deck & Demo Video
+
+### 📊 Pitch Deck
+
+🔗 https://drive.google.com/drive/folders/1SjlDncbF6psHKQYj8zbCQpVFXx6vJgpw?usp=sharing
+
+---
 
 ### 🎬 Working Demo
 <a href="https://youtu.be/wRg5QJCFU8w">
   <img src="https://img.youtube.com/vi/wRg5QJCFU8w/maxresdefault.jpg" alt="Watch Demo" width="700"/>
 </a>
-
----
-
-### 📊 Pitch Deck
-
-🔗 https://drive.google.com/drive/folders/1SjlDncbF6psHKQYj8zbCQpVFXx6vJgpw?usp=sharing
 
 ---
 
