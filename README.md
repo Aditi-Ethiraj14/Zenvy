@@ -1,6 +1,6 @@
 # ⚡ ZENVY — AI-Powered Parametric Income Insurance for Gig Workers
 
-> **"When the rain stops your work, ZENVY starts your payout."**
+> **"Built for Hustle - Predict. Protect. Payout."**
 
 ---
 
