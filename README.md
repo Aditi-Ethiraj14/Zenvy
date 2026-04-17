@@ -7,8 +7,10 @@
 ## 🎥 Demo & Pitch
 
 ### 🎬 Working Demo
-[![Watch the Demo](<img width="2493" height="1341" alt="image" src="https://github.com/user-attachments/assets/b628f3eb-5d0a-4cac-934d-ce32a1c16881" />
-)](https://youtu.be/wRg5QJCFU8w)
+<a href="[Watch Demo](https://youtu.be/wRg5QJCFU8w)">
+  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="Watch Demo" width="700"/>
+</a>
+
 
 ---
 
